@@ -1,0 +1,16 @@
+header
+{
+    display: flex;
+    margin: 5%;
+}
+
+
+
+
+img 
+{
+    display: flex;
+    flex-direction: flex-start;
+    max-width: 50%;
+
+}
